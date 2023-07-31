@@ -1,0 +1,1 @@
+# shopping-static-app
